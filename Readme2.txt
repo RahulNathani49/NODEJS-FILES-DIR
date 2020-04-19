@@ -1,0 +1,1 @@
+This is Readme 2 with synchronous method
